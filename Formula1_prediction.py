@@ -15,6 +15,8 @@ import numpy as np
 
 
 
-constructer_df = pd.read_csv('constructors.csv')
+constructor_df = pd.read_csv('constructors.csv')
 
 print(constructer_df)
+
+driver_df = pd.read_csv('drivers.csv')
